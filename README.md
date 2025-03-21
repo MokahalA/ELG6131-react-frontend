@@ -1,7 +1,7 @@
 # ELG 6131 Document Digitizer Frontend
 
-Main page code: `DocumentDigitizer.jsx`
-Lab form component: `LabForm.jsx`
+- Main page code: `DocumentDigitizer.jsx`
+- Lab form component: `LabForm.jsx`
 
 ## Dependencies
 
