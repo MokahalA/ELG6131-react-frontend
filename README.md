@@ -10,6 +10,6 @@
 
 ## Local configuration
 
-To install dependencies: `npm install`
-To run: `npm run dev`
-To run on network for mobile access: `npm run dev -- --host`
+- To install dependencies: `npm install`
+- To run: `npm run dev`
+- To run on network for mobile access: `npm run dev -- --host`
