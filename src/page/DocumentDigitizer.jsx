@@ -19,17 +19,17 @@ import LabForm from './LabForm';
 
 // Deployment API endpoints
 const UPLOAD_PRESCRIPTION_API_URL =
-  'https://doc-digitization.onrender.com/upload-prescription/';
+  'https://chatbot-2024-90539106da8b.herokuapp.com/upload-prescription/';
 const UPLOAD_LAB_REQUISITION_API_URL =
-  'https://doc-digitization.onrender.com/upload-lab-requisition/';
+  'https://chatbot-2024-90539106da8b.herokuapp.com/upload-lab-requisition/';
 const FETCH_PRESCRIPTIONS_API_URL =
-  'https://doc-digitization.onrender.com/fetch-prescriptions/';
+  'https://chatbot-2024-90539106da8b.herokuapp.com/fetch-prescriptions/';
 const FETCH_LAB_REQUISITIONS_API_URL =
-  'https://doc-digitization.onrender.com/fetch-lab-requisitions/';
+  'https://chatbot-2024-90539106da8b.herokuapp.com/fetch-lab-requisitions/';
 const ANALYZE_PRESCRIPTION_API_URL =
-  'https://doc-digitization.onrender.com/analyze-prescription/';
+  'https://chatbot-2024-90539106da8b.herokuapp.com/analyze-prescription/';
 const ANALYZE_LAB_REQUISITION_API_URL =
-  'https://doc-digitization.onrender.com/analyze-lab-requisition/';
+  'https://chatbot-2024-90539106da8b.herokuapp.com/analyze-lab-requisition/';
 
 // Color scheme
 const COLORS = {
